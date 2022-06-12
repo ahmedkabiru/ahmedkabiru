@@ -1,12 +1,13 @@
-### Hi there 👋 I'm Ahmed
+### Hi there 👋
+
+My name is Ahmed Kabiru and I'm a Software Engineer who is passionate about building tech,and learning new technologies.
+
 <a href="https://www.linkedin.com/in/ahmedkabiru/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/kabiruahmed1">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
 </a>
-
-My name is Ahmed Kabiru and I"m a Software Engineer who is passionate about building tech,and learning new technologies.
 
 ## ⚡ Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
