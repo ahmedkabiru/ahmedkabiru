@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ahmed Kabiru and I'm a Software Engineer who is passionate about building tech, and learning new technologies.
+My name is Ahmed Kabiru and I'm a Software Engineer who is passionate about building product that solve a particular problem.
 
 <a href="https://www.linkedin.com/in/ahmedkabiru/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
